@@ -1,0 +1,23 @@
+{
+  "name": "Shubam Sharma",
+  "type": "personal",
+  "bio": "**student**. Front End Developer ,ML enthusiast ",
+  "avatar" : "https://github.com/sharmashubam.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/sharma_shubamm",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on Gihtub",
+      "url": "https://github.com/sharmashubam",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/shubam-sharma-391769231/",
+      "icon": "FaLinkedin"
+    }
+  ]
+}
